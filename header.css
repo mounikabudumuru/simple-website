@@ -1,0 +1,15 @@
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+
+}
+.left-section{
+    background-color: lightpink;
+}
+.middle-section{
+    background-color: lightblue;
+}
+.right-section{
+    background-color: lightpink;
+}
